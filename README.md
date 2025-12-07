@@ -4,6 +4,8 @@ A machine learning project comparing ensemble methods (Random Forest, XGBoost, L
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Latest-red.svg)](https://xgboost.readthedocs.io/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-Latest-yellow.svg)](https://lightgbm.readthedocs.io/)
+
+Dataset Link : https://www.kaggle.com/code/hasansaifuddin/loan-default-prediction-ml-recall-99-84?select=Loan_default.csv
 ## 📊 Overview
 This project tackles the critical financial challenge of predicting loan defaults using advanced machine learning techniques. We handle severe class imbalance through a combination of oversampling (SMOTE, ROS) and undersampling (RUS) strategies, then compare three powerful ensemble algorithms.
 ## ✨ Key Features
