@@ -76,7 +76,7 @@ loan-default-prediction/
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
 | Random Forest | 89.00% | 89.50% | 99.20% | 93.50% |
-| XGBoost | 94.50% | 92.00% | 99.10% | 93.80% |
+| XGBoost | 97.50% | 96.00% | 99.10% | 95.80% |
 | LightGBM | 90.30% | 88.80% | 99.30% | 93.70% |
 
 *Run the notebook to see actual results*
